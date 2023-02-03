@@ -1,0 +1,79 @@
+PODS:
+  - ActionSheetPicker-3.0 (2.7.1)
+  - Alamofire (4.8.2)
+  - BEMCheckBox (1.4.1)
+  - Cosmos (23.0.0)
+  - DatePickerDialog (4.0)
+  - IQKeyboardManagerSwift (6.5.10)
+  - M13Checkbox (3.4.0)
+  - ObjectMapper (4.2.0)
+  - Player (0.14.0)
+  - Realm (10.33.0):
+    - Realm/Headers (= 10.33.0)
+  - Realm/Headers (10.33.0)
+  - RealmSwift (10.33.0):
+    - Realm (= 10.33.0)
+  - RLBAlertsPickers (1.1.2)
+  - SwiftyJSON (5.0.1)
+  - Zip (2.1.2)
+
+DEPENDENCIES:
+  - ActionSheetPicker-3.0
+  - Alamofire (~> 4.8.2)
+  - BEMCheckBox
+  - Cosmos
+  - DatePickerDialog
+  - IQKeyboardManagerSwift
+  - M13Checkbox
+  - ObjectMapper
+  - Player
+  - RealmSwift
+  - RLBAlertsPickers (from `https://github.com/savasadar/Alerts-Pickers.git`, branch `master`)
+  - SwiftyJSON
+  - Zip
+
+SPEC REPOS:
+  trunk:
+    - ActionSheetPicker-3.0
+    - Alamofire
+    - BEMCheckBox
+    - Cosmos
+    - DatePickerDialog
+    - IQKeyboardManagerSwift
+    - M13Checkbox
+    - ObjectMapper
+    - Player
+    - Realm
+    - RealmSwift
+    - SwiftyJSON
+    - Zip
+
+EXTERNAL SOURCES:
+  RLBAlertsPickers:
+    :branch: master
+    :git: https://github.com/savasadar/Alerts-Pickers.git
+
+CHECKOUT OPTIONS:
+  RLBAlertsPickers:
+    :commit: e03545c1ff31bd584ea278d9b59a6ba05a3bbc6c
+    :git: https://github.com/savasadar/Alerts-Pickers.git
+
+SPEC CHECKSUMS:
+  ActionSheetPicker-3.0: 36da254b97a09ff89679ecb8b8510bd3e5bdc773
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  DatePickerDialog: ccff2f91ff7a018057a4d72fa5ad6de49c8cb0cd
+  IQKeyboardManagerSwift: 52962c76ab33532f15ad9f3ff4e5715eda5335bb
+  M13Checkbox: 6f59404540ac98ba83a3d1afac335895a40c6a5d
+  ObjectMapper: 1eb41f610210777375fa806bf161dc39fb832b81
+  Player: 37e0acc16ea1495fc241df88fe9f089367513331
+  Realm: d4f810e161fa2c2c589b9860b6eb09238deacd73
+  RealmSwift: cef9946f09f2333a8f2ac8bac4f8de52fb9f5ac3
+  RLBAlertsPickers: d9ad8d67879c1b2dd1a0ba5a14929e0bbc4d1b58
+  SwiftyJSON: 2f33a42c6fbc52764d96f13368585094bfd8aa5e
+  Zip: b3fef584b147b6e582b2256a9815c897d60ddc67
+
+PODFILE CHECKSUM: d43bf486fccd94628e8d7a33ac784572193f4b43
+
+COCOAPODS: 1.11.3
